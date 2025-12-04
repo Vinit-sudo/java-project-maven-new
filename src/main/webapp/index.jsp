@@ -21,7 +21,7 @@
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
-            <li class="nav-items"><a href="#">TV</a></li>
+            <li class="nav-items"><a href="#">DNA</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">Sports</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
@@ -91,7 +91,7 @@
                 <img src="./assets/img/poster 4.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Avengers Endgame</h2>
-                    <h6 class="des">Lorem ipsum dolor helo consectetur elit.</h6>
+                    <h6 class="des">Danish ipsum dolor helo consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                 <img src="./assets/img/poster 11.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Ford v Ferrari</h2>
-                    <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
+                    <h6 class="des">Sailaja ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                 <img src="./assets/img/poster 2.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Mulan</h2>
-                    <h6 class="des">Lorem Mulan dolor sit consectetur elit.</h6>
+                    <h6 class="des">Haha Mulan dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
@@ -115,7 +115,7 @@
                 <img src="./assets/img/poster 1.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Loki</h2>
-                    <h6 class="des">Lorem ipsum color sit consectetur elit.</h6>
+                    <h6 class="des">Lorem color sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
@@ -123,7 +123,7 @@
                 <img src="./assets/img/poster 5.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Thor Ragnarok</h2>
-                    <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
+                    <h6 class="des">Lakshmi ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
@@ -131,7 +131,7 @@
                 <img src="./assets/img/poster 6.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Avengers</h2>
-                    <h6 class="des">Lorem Hello dolor hello consectetur elit.</h6>
+                    <h6 class="des">Khush Hello dolor hello consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
@@ -171,7 +171,7 @@
                 <img src="./assets/img/poster 10.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Luca</h2>
-                    <h6 class="des">Lorem ipsum dolor SIR consectetur elit.</h6>
+                    <h6 class="des">Lorem sanketh dolor SIR consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
